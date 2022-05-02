@@ -1,0 +1,26 @@
+body{
+    background: #f1f1f1;
+}
+
+
+#admin-content{
+    min-height: 90vh;
+}
+form {
+    background: rgb(253, 251, 251);
+    padding: 25px;
+    box-shadow: 3px 4px 12px 2px rgba(0, 0, 0, 0.13);
+  }
+  .col-md-offset-4{
+    margin-left: 33.3333%;
+  }
+
+  label{
+      font-weight: bold;
+      font-size: 18px;
+      font-family: cascadia code;
+  }
+  .heading{
+      font-family: cascadia code;
+  }
+  
